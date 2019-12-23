@@ -1,0 +1,4 @@
+{
+  // Run Bash script in .devcontainer directory
+  "postCreateCommand": "/bin/bash ./.devcontainer/post-create.sh"
+}
